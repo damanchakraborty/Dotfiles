@@ -1,0 +1,6 @@
+2025/06/30-14:25:38.488 42a Creating DB /home/daman/.config/chromium/Default/IndexedDB/https_in.linkedin.com_0.indexeddb.leveldb since it was missing.
+2025/06/30-14:25:38.491 42a Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_in.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/30-14:25:40.733 42a Level-0 table #5: started
+2025/06/30-14:25:40.734 42a Level-0 table #5: 1054 bytes OK
+2025/06/30-14:25:40.735 42a Delete type=0 #3
+2025/06/30-14:25:40.735 42a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

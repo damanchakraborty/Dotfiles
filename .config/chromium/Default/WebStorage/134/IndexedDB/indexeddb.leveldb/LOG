@@ -1,0 +1,6 @@
+2025/12/14-21:28:29.083 784 Creating DB /home/daman/.config/chromium/Default/WebStorage/134/IndexedDB/indexeddb.leveldb since it was missing.
+2025/12/14-21:28:29.086 784 Reusing MANIFEST /home/daman/.config/chromium/Default/WebStorage/134/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/12/14-21:28:52.692 785 Level-0 table #5: started
+2025/12/14-21:28:52.694 785 Level-0 table #5: 1200 bytes OK
+2025/12/14-21:28:52.695 785 Delete type=0 #3
+2025/12/14-21:28:52.695 785 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

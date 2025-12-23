@@ -1,0 +1,166 @@
+00:00:00.000412 main     VirtualBox XPCOM Server 7.1.10 r169112 linux.amd64 (Jun  3 2025 19:52:37) release log
+00:00:00.000414 main     Log opened 2025-06-29T10:29:02.601045000Z
+00:00:00.000414 main     Build Type: release
+00:00:00.000416 main     OS Product: Linux
+00:00:00.000416 main     OS Release: 6.15.3-arch1-1
+00:00:00.000417 main     OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 19 Jun 2025 14:41:19 +0000
+00:00:00.000433 main     DMI Product Name: 82FG
+00:00:00.000437 main     DMI Product Version: IdeaPad 5 15ITL05
+00:00:00.000440 main     Firmware type: UEFI
+00:00:00.000737 main     Secure Boot: Disabled
+00:00:00.000755 main     Host RAM: 7719MB (7.5GB) total, 4203MB (4.1GB) available
+00:00:00.000757 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000757 main     Process ID: 412571
+00:00:00.000757 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002222 main     IPC socket path: /tmp/.vbox-daman-ipc/ipcd
+00:00:00.006846 DCon01   VirtualBox: object creation starts
+00:00:00.007486 DCon01   Home directory: '/home/daman/.config/VirtualBox'
+00:00:00.016837 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.017628 DCon01   HostDnsMonitor: initializing
+00:00:00.017822 DCon01   NAT: resolv.conf: nameserver 127.0.0.53
+00:00:00.017826 DCon01   NAT: resolv.conf: ignoring "options edns0 trust-ad"
+00:00:00.017829 DCon01   HostDnsMonitor: updating information
+00:00:00.018015 DCon01   HostDnsMonitor: old information
+00:00:00.018017 DCon01     no server entries
+00:00:00.018018 DCon01     no domain set
+00:00:00.018019 DCon01     no search string entries
+00:00:00.018019 DCon01   HostDnsMonitor: new information
+00:00:00.018020 DCon01     server 1: 127.0.0.53
+00:00:00.018021 DCon01     domain: .
+00:00:00.018022 DCon01     search string 1: .
+00:00:00.019458 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.019982 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.020302 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.020967 DCon01   VirtualBox: object created
+00:00:00.419996 DCon03   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.421691 DCon03   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:00:00.450610 DCon03   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.452070 DCon03   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:00:00.467031 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:00.806126 DCon03   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.808298 DCon03   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:00:02.597472 DCon03   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:02.999943 DCon03   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:03.002419 DCon03   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:00:20.109062 DCon03   Unattended: RTVfsQueryPathInfo(, '\OS2IMAGE/DISK_0/OS2LDR' (from OS2SE20.SRC),) -> VERR_PATH_NOT_FOUND, fMode=0x0
+00:00:20.112684 DCon03   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:20.114238 DCon03   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:00:20.115175 DCon03   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:20.116718 DCon03   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:01:24.607956 createBase Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:24.609471 createBase Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:01:24.613045 DCon08   Platform architecture set to 'x86'
+00:01:24.613264 DCon08   Platform architecture set to 'x86'
+00:01:24.613269 DCon08   Platform architecture set to 'x86'
+00:01:24.613488 DCon08   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:01:24.613507 DCon08   Platform architecture set to 'x86'
+00:01:24.613988 DCon08   Saving settings file "/home/daman/VirtualBox VMs/gentoo/gentoo.vbox" with version "1.19-linux"
+00:01:24.618190 DCon08   Finished saving settings file "/home/daman/VirtualBox VMs/gentoo/gentoo.vbox"
+00:01:24.618249 DCon08   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:24.619795 DCon08   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:01:24.620270 DCon08   Platform architecture set to 'x86'
+00:01:24.621501 DCon03   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:24.622913 DCon03   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:01:24.623656 DCon03   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:24.625159 DCon03   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:01:24.625382 DCon03   Saving settings file "/home/daman/VirtualBox VMs/gentoo/gentoo.vbox" with version "1.19-linux"
+00:01:24.626788 DCon03   Finished saving settings file "/home/daman/VirtualBox VMs/gentoo/gentoo.vbox"
+00:01:24.645273 DCon08   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:24.646870 DCon08   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:01:24.980628 DCon08   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:24.982942 DCon08   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:01:24.986467 DCon08   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:01:24.998943 DCon08   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:24.999665 DCon08   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:01:25.061675 DCon08   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:25.109341 DCon08   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:01:25.109928 DCon08   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:01:28.365048 DCon09   Launched VM: 1879052240 pid: 412852 (0x64cb4) frontend: GUI/Qt name: gentoo
+00:01:28.390871 DCon02   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:28.391511 DCon02   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:01:28.403220 DCon02   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:28.433202 DCon02   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:01:28.433712 DCon02   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:01:28.865258 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The virtual machine 'gentoo' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:01:28.903938 DCon08   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:28.904667 DCon08   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:01:28.916265 DCon08   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:28.945772 DCon08   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:01:28.946258 DCon08   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:01:40.983372 DCon02   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:40.985653 DCon02   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:01:55.800177 DCon02   Launched VM: 2929704128 pid: 412981 (0x64d35) frontend: GUI/Qt name: gentoo
+00:01:55.825686 DCon13   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:55.826390 DCon13   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:01:55.837884 DCon13   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:55.868991 DCon13   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:01:55.869562 DCon13   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:01:56.300427 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The virtual machine 'gentoo' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:01:56.338267 DCon13   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:56.338928 DCon13   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:01:56.350341 DCon13   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:56.379964 DCon13   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:01:56.380572 DCon13   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:02:59.026723 DCon14   Launched VM: 1744867008 pid: 413179 (0x64dfb) frontend: GUI/Qt name: gentoo
+00:02:59.067372 DCon15   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:59.068014 DCon15   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:02:59.080102 DCon15   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:59.110688 DCon15   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:02:59.111265 DCon15   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:02:59.527091 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The virtual machine 'gentoo' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:02:59.572607 DCon14   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:59.573277 DCon14   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:02:59.585080 DCon14   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:59.614889 DCon14   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:02:59.615437 DCon14   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:07.621230 DCon14   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:07.623447 DCon14   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:03:09.657098 DCon14   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:09.659257 DCon14   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:03:09.978028 DCon14   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:09.985270 DCon14   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:09.985914 DCon14   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:03:09.987382 DCon14   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:03:09.991957 DCon14   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:09.992507 DCon14   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:25.700593 DCon14   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:25.703084 DCon14   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:03:31.750851 DCon15   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:32.104740 DCon15   Platform architecture set to 'x86'
+00:03:32.106420 DCon15   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:32.106948 DCon15   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:03:32.107066 DCon15   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:03:32.107166 DCon15   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:03:32.122434 DCon15   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:03:32.131889 DCon15   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:03:32.139110 DCon15   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:32.139395 DCon15   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:32.438891 DCon14   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:32.439593 DCon14   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:03:32.442266 DCon14   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:03:32.448553 DCon14   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:32.449146 DCon14   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:32.599892 DCon14   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:32.602365 DCon14   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:03:35.265699 DCon15   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:35.268144 DCon15   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:03:40.017025 DCon15   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:40.019179 DCon15   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:03:40.019204 DCon15   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:40.020678 DCon15   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:03:40.022159 DeleteVM Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:40.023814 DeleteVM Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:03:40.024445 DCon02   Saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:40.025786 DCon02   Finished saving settings file "/home/daman/.config/VirtualBox/VirtualBox.xml"
+00:03:40.037099 DCon14   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {04a5a849-30af-468b-9789-cf2108fdaa59}}, preserve=false aResultDetail=0
+00:03:40.047417 DCon14   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {04a5a849-30af-468b-9789-cf2108fdaa59}}, preserve=false aResultDetail=0
+00:03:40.060705 DCon14   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:40.061342 DCon14   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:03:40.062360 DCon14   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:03:40.065603 DCon14   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:40.066101 DCon14   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:47.541939 main     VirtualBox: object deletion starts
+00:03:47.542717 main     HostDnsMonitor: shutting down ...
+00:03:47.543254 main     HostDnsMonitor: shut down
+00:03:47.553851 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:03:47.553926 main     VirtualBox: object deleted

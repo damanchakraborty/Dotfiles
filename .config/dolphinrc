@@ -1,0 +1,25 @@
+MenuBar=Disabled
+
+[ContextMenu]
+ShowCopyMoveMenu=true
+
+[General]
+ShowStatusBar=Disabled
+Version=202
+ViewPropsTimestamp=2025,5,27,23,55,8.686
+
+[IconsMode]
+IconSize=22
+PreviewSize=160
+UseSystemFont=false
+ViewFont=MesloLGS Nerd Font Propo,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,gdk-pixbuf-thumbnailer

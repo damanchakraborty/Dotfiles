@@ -1,0 +1,56 @@
+[2025-12-07 23:09:27.249] [info]  DiscordSplash.signalReady
+[2025-12-07 23:09:27.279] [info]  DiscordSplash.onStateUpdate: {"status":"installing-updates","current":1,"total":6}
+[2025-12-07 23:09:27.280] [info]  Splash.onStateUpdate: {"status":"installing-updates","current":1,"total":6}
+[2025-12-07 23:09:27.283] [info]  DiscordSplash.onStateUpdate: {"status":"installing-updates","current":2,"total":6}
+[2025-12-07 23:09:27.283] [info]  Splash.onStateUpdate: {"status":"installing-updates","current":2,"total":6}
+[2025-12-07 23:09:27.283] [info]  DiscordSplash.onStateUpdate: {"status":"installing-updates","current":3,"total":6}
+[2025-12-07 23:09:27.284] [info]  Splash.onStateUpdate: {"status":"installing-updates","current":3,"total":6}
+[2025-12-07 23:09:27.284] [info]  DiscordSplash.onStateUpdate: {"status":"installing-updates","current":4,"total":6}
+[2025-12-07 23:09:27.285] [info]  Splash.onStateUpdate: {"status":"installing-updates","current":4,"total":6}
+[2025-12-07 23:09:27.285] [info]  DiscordSplash.onStateUpdate: {"status":"installing-updates","current":5,"total":6}
+[2025-12-07 23:09:27.285] [info]  Splash.onStateUpdate: {"status":"installing-updates","current":5,"total":6}
+[2025-12-07 23:09:27.286] [info]  DiscordSplash.onStateUpdate: {"status":"installing-updates","current":6,"total":6}
+[2025-12-07 23:09:27.286] [info]  Splash.onStateUpdate: {"status":"installing-updates","current":6,"total":6}
+[2025-12-07 23:09:27.286] [info]  DiscordSplash.onStateUpdate: {"status":"checking-for-updates","current":6,"total":6}
+[2025-12-07 23:09:27.286] [info]  Splash.onStateUpdate: {"status":"checking-for-updates","current":6,"total":6}
+[2025-12-07 23:09:28.249] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:28.786] [info]  DiscordSplash.onStateUpdate: {"status":"update-manually","current":6,"total":6,"newVersion":"0.0.117"}
+[2025-12-07 23:09:28.786] [info]  Splash.onStateUpdate: {"status":"update-manually","current":6,"total":6,"newVersion":"0.0.117"}
+[2025-12-07 23:09:29.249] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:30.249] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:31.249] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:32.249] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:33.249] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:34.249] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:35.249] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:36.249] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:37.249] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:38.249] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:48.995] [info]  DiscordSplash.signalReady
+[2025-12-07 23:09:49.032] [info]  DiscordSplash.onStateUpdate: {"status":"checking-for-updates"}
+[2025-12-07 23:09:49.032] [info]  Splash.onStateUpdate: {"status":"checking-for-updates"}
+[2025-12-07 23:09:49.916] [info]  DiscordSplash.onStateUpdate: {"status":"update-manually","newVersion":"0.0.117"}
+[2025-12-07 23:09:49.917] [info]  Splash.onStateUpdate: {"status":"update-manually","newVersion":"0.0.117"}
+[2025-12-07 23:09:49.983] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:50.983] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:51.983] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:52.983] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-07 23:09:53.983] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-09 17:16:34.348] [info]  DiscordSplash.signalReady
+[2025-12-09 17:16:34.413] [info]  DiscordSplash.onStateUpdate: {"status":"checking-for-updates"}
+[2025-12-09 17:16:34.422] [info]  Splash.onStateUpdate: {"status":"checking-for-updates"}
+[2025-12-09 17:16:34.925] [info]  DiscordSplash.onStateUpdate: {"status":"update-manually","newVersion":"0.0.118"}
+[2025-12-09 17:16:34.926] [info]  Splash.onStateUpdate: {"status":"update-manually","newVersion":"0.0.118"}
+[2025-12-09 17:16:35.348] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-09 17:16:36.348] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-10 09:38:35.024] [info]  DiscordSplash.signalReady
+[2025-12-10 09:38:35.093] [info]  DiscordSplash.onStateUpdate: {"status":"checking-for-updates"}
+[2025-12-10 09:38:35.094] [info]  Splash.onStateUpdate: {"status":"checking-for-updates"}
+[2025-12-10 09:38:35.462] [info]  DiscordSplash.onStateUpdate: {"status":"update-manually","newVersion":"0.0.118"}
+[2025-12-10 09:38:35.462] [info]  Splash.onStateUpdate: {"status":"update-manually","newVersion":"0.0.118"}
+[2025-12-10 09:38:36.024] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-10 09:38:37.024] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-10 09:38:38.024] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-10 09:38:39.024] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-10 09:38:40.024] [info]  Splash.updateCountdownSeconds: undefined
+[2025-12-10 09:38:41.024] [info]  Splash.updateCountdownSeconds: undefined

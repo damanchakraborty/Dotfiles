@@ -1,0 +1,6 @@
+2025/06/29-10:13:10.338 28e5 Creating DB /home/daman/.config/chromium/Default/IndexedDB/https_secure.indeed.com_0.indexeddb.leveldb since it was missing.
+2025/06/29-10:13:10.340 28e5 Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_secure.indeed.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/29-10:13:33.669 28e6 Level-0 table #5: started
+2025/06/29-10:13:33.670 28e6 Level-0 table #5: 1040 bytes OK
+2025/06/29-10:13:33.672 28e6 Delete type=0 #3
+2025/06/29-10:13:33.672 28e6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

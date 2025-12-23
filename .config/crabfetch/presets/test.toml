@@ -1,0 +1,7 @@
+modules = [
+"hostname",
+"underline:32",
+"cpu",
+"gpu",
+"memory"
+]

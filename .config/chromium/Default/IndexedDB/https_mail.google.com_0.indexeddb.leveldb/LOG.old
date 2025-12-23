@@ -1,0 +1,6 @@
+2025/11/17-11:15:46.816 7bf Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/17-11:15:46.816 7bf Recovering log #26
+2025/11/17-11:15:46.817 7bf Reusing old log /home/daman/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000026.log 
+2025/11/17-11:16:25.118 7cd Level-0 table #32: started
+2025/11/17-11:16:25.134 7cd Level-0 table #32: 3185027 bytes OK
+2025/11/17-11:16:25.136 7cd Delete type=0 #26

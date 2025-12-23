@@ -1,0 +1,6 @@
+2025/08/29-16:09:10.055 44f Creating DB /home/daman/.config/chromium/Default/IndexedDB/https_www.olx.in_0.indexeddb.leveldb since it was missing.
+2025/08/29-16:09:10.058 44f Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_www.olx.in_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/29-16:09:38.123 450 Level-0 table #5: started
+2025/08/29-16:09:38.124 450 Level-0 table #5: 3700 bytes OK
+2025/08/29-16:09:38.125 450 Delete type=0 #3
+2025/08/29-16:09:38.125 450 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

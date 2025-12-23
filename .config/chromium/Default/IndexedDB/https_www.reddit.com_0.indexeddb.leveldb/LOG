@@ -1,0 +1,15 @@
+2025/12/14-20:15:40.217 784 Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/14-20:15:40.218 784 Recovering log #84
+2025/12/14-20:15:40.223 784 Reusing old log /home/daman/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000084.log 
+2025/12/14-20:16:36.377 785 Level-0 table #89: started
+2025/12/14-20:16:36.383 785 Level-0 table #89: 1119036 bytes OK
+2025/12/14-20:16:36.385 785 Delete type=0 #84
+2025/12/14-20:16:36.385 785 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/12/14-20:16:36.385 785 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x03\x03\x04\x01\x01\x01\x00-' @ 100796 : 0
+2025/12/14-20:16:36.385 785 Compacting 1@1 + 1@2 files
+2025/12/14-20:16:36.388 785 Generated table #90@1: 131 keys, 10617 bytes
+2025/12/14-20:16:36.388 785 Compacted 1@1 + 1@2 files => 10617 bytes
+2025/12/14-20:16:36.389 785 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/14-20:16:36.390 785 Delete type=2 #89
+2025/12/14-20:16:36.390 785 Delete type=2 #86
+2025/12/14-20:16:36.390 785 Manual compaction at level-1 from '\x00\x03\x03\x03\x04\x01\x01\x01\x00-' @ 100796 : 0 .. (end); will stop at (end)

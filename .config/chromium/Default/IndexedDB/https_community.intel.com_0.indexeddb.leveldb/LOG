@@ -1,0 +1,18 @@
+2025/08/29-19:16:22.335 450 Creating DB /home/daman/.config/chromium/Default/IndexedDB/https_community.intel.com_0.indexeddb.leveldb since it was missing.
+2025/08/29-19:16:22.337 450 Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_community.intel.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/29-19:16:24.929 44f Level-0 table #5: started
+2025/08/29-19:16:24.930 44f Level-0 table #5: 590 bytes OK
+2025/08/29-19:16:24.931 44f Delete type=0 #3
+2025/08/29-19:16:24.931 44f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/29-19:16:26.932 450 Level-0 table #7: started
+2025/08/29-19:16:26.934 450 Level-0 table #7: 249 bytes OK
+2025/08/29-19:16:26.935 450 Delete type=0 #4
+2025/08/29-19:16:26.936 450 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/08/29-19:16:26.936 450 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2025/08/29-19:16:26.936 450 Compacting 1@1 + 1@2 files
+2025/08/29-19:16:26.937 450 Generated table #8@1: 6 keys, 253 bytes
+2025/08/29-19:16:26.937 450 Compacted 1@1 + 1@2 files => 253 bytes
+2025/08/29-19:16:26.938 450 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/29-19:16:26.939 450 Delete type=2 #5
+2025/08/29-19:16:26.939 450 Delete type=2 #7
+2025/08/29-19:16:26.939 450 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

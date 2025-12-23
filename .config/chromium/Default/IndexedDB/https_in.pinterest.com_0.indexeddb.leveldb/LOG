@@ -1,0 +1,12 @@
+2025/07/21-23:20:26.508 5ff Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_in.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/21-23:20:26.508 5ff Recovering log #11
+2025/07/21-23:20:26.533 5ff Reusing old log /home/daman/.config/chromium/Default/IndexedDB/https_in.pinterest.com_0.indexeddb.leveldb/000011.log 
+2025/07/21-23:27:05.059 600 Level-0 table #16: started
+2025/07/21-23:27:05.087 600 Level-0 table #16: 1845221 bytes OK
+2025/07/21-23:27:05.090 600 Delete type=0 #11
+2025/07/21-23:27:05.435 601 Compacting 1@1 + 1@2 files
+2025/07/21-23:27:05.449 601 Generated table #17@1: 180 keys, 26636 bytes
+2025/07/21-23:27:05.450 601 Compacted 1@1 + 1@2 files => 26636 bytes
+2025/07/21-23:27:05.451 601 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/21-23:27:05.451 601 Delete type=2 #13
+2025/07/21-23:27:05.451 601 Delete type=2 #16

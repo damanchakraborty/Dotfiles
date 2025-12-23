@@ -1,0 +1,12 @@
+2025/12/14-21:28:57.577 793 Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/14-21:28:57.582 793 Recovering log #139
+2025/12/14-21:28:57.593 793 Reusing old log /home/daman/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000139.log 
+2025/12/14-21:29:00.650 793 Level-0 table #144: started
+2025/12/14-21:29:00.658 793 Level-0 table #144: 1398239 bytes OK
+2025/12/14-21:29:00.660 793 Delete type=0 #139
+2025/12/14-21:29:04.572 785 Compacting 1@1 + 1@2 files
+2025/12/14-21:29:04.577 785 Generated table #145@1: 1355 keys, 103917 bytes
+2025/12/14-21:29:04.577 785 Compacted 1@1 + 1@2 files => 103917 bytes
+2025/12/14-21:29:04.578 785 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/14-21:29:04.579 785 Delete type=2 #144
+2025/12/14-21:29:04.579 785 Delete type=2 #141

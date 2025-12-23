@@ -1,0 +1,10 @@
+[GuiConfig]
+captureMode=3
+
+[ImageSave]
+lastImageSaveAsLocation=file:///home/daman/Pictures/FastTOP.png
+lastImageSaveLocation=file:///home/daman/Pictures/FastTOP.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts

@@ -1,0 +1,6 @@
+2025/12/23-14:14:58.415 33d0 Reusing MANIFEST /home/daman/.config/chromium/Default/Site Characteristics Database/MANIFEST-000001
+2025/12/23-14:14:58.415 33d0 Recovering log #3
+2025/12/23-14:14:58.417 33d0 (ignoring error) /home/daman/.config/chromium/Default/Site Characteristics Database/000003.log: dropping 62 bytes; Corruption: missing start of fragmented record(2)
+2025/12/23-14:14:58.417 33d0 (ignoring error) /home/daman/.config/chromium/Default/Site Characteristics Database/000003.log: dropping 21 bytes; Corruption: missing start of fragmented record(2)
+2025/12/23-14:14:58.417 33d0 (ignoring error) /home/daman/.config/chromium/Default/Site Characteristics Database/000003.log: dropping 1 bytes; Corruption: missing start of fragmented record(2)
+2025/12/23-14:14:58.417 33d0 Reusing old log /home/daman/.config/chromium/Default/Site Characteristics Database/000003.log 

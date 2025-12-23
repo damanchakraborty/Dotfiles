@@ -1,0 +1,14 @@
+2025/09/28-13:07:20.290 72fcf Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/28-13:07:20.291 72fcf Recovering log #13
+2025/09/28-13:07:20.291 72fcf Reusing old log /home/daman/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000013.log 
+2025/09/28-13:07:20.291 72fcf Delete type=2 #12
+2025/09/28-13:07:20.323 72fd1 Level-0 table #18: started
+2025/09/28-13:07:20.324 72fd1 Level-0 table #18: 2045 bytes OK
+2025/09/28-13:07:20.325 72fd1 Delete type=0 #13
+2025/09/28-13:07:20.325 72fd0 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 389 : 1
+2025/09/28-13:07:20.325 72fd0 Compacting 1@0 + 1@1 files
+2025/09/28-13:07:20.325 72fd0 Generated table #19@0: 133 keys, 2605 bytes
+2025/09/28-13:07:20.325 72fd0 Compacted 1@0 + 1@1 files => 2605 bytes
+2025/09/28-13:07:20.326 72fd0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/28-13:07:20.326 72fd0 Delete type=2 #18
+2025/09/28-13:07:20.326 72fd1 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 389 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

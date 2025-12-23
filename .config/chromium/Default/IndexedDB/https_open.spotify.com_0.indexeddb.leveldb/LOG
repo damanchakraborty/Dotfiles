@@ -1,0 +1,5 @@
+2025/07/08-13:56:44.882 d13b Creating DB /home/daman/.config/chromium/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb since it was missing.
+2025/07/08-13:56:44.885 d13b Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/08-13:56:53.374 d13d Level-0 table #5: started
+2025/07/08-13:56:53.383 d13d Level-0 table #5: 4246476 bytes OK
+2025/07/08-13:56:53.385 d13d Delete type=0 #3

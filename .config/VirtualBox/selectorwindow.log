@@ -1,0 +1,26 @@
+00:00:00.173577 VirtualBox GUI VM Selector Window 7.1.10 r169112 linux.amd64 (Jun  3 2025 19:52:37) release log
+00:00:00.173578 Log opened 2025-06-29T10:29:02.686925000Z
+00:00:00.173578 Build Type: release
+00:00:00.173579 OS Product: Linux
+00:00:00.173580 OS Release: 6.15.3-arch1-1
+00:00:00.173580 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 19 Jun 2025 14:41:19 +0000
+00:00:00.173596 DMI Product Name: 82FG
+00:00:00.173599 DMI Product Version: IdeaPad 5 15ITL05
+00:00:00.173602 Firmware type: UEFI
+00:00:00.173881 Secure Boot: Disabled
+00:00:00.173903 Host RAM: 7719MB (7.5GB) total, 4203MB (4.1GB) available
+00:00:00.173905 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.173905 Process ID: 412554
+00:00:00.173905 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.173920 Qt version: 6.9.1
+00:00:00.174605 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.178573 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.178587 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.581137 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 11x11 x 944x1014
+00:01:24.699877 GUI: UIMediumEnumerator: Medium with key={{d432fbd0-f17e-475f-95a0-d0bcd1d0c769}} created
+00:01:24.759113 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:28.962680 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:01:56.398265 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:02:59.624755 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:03:42.061954 GUI: UICommon: Handling aboutToQuit request..
+00:03:42.634836 GUI: UICommon: aboutToQuit request handled!

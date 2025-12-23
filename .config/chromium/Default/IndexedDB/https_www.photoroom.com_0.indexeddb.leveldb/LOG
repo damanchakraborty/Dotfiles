@@ -1,0 +1,6 @@
+2025/12/14-19:05:17.417 784 Creating DB /home/daman/.config/chromium/Default/IndexedDB/https_www.photoroom.com_0.indexeddb.leveldb since it was missing.
+2025/12/14-19:05:17.420 784 Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_www.photoroom.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/14-19:05:17.988 793 Level-0 table #5: started
+2025/12/14-19:05:17.990 793 Level-0 table #5: 669 bytes OK
+2025/12/14-19:05:17.991 793 Delete type=0 #3
+2025/12/14-19:05:17.991 784 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

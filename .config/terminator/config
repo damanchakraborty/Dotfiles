@@ -1,0 +1,40 @@
+[global_config]
+  focus = mouse
+  borderless = True
+  inactive_color_offset = 0.8333333333333334
+  inactive_bg_color_offset = 0.875
+  enabled_plugins = RunCmdOnMatchMenu, LaunchpadBugURLHandler, LaunchpadCodeURLHandler, APTURLHandler
+[keybindings]
+[profiles]
+  [[default]]
+    background_darkness = 0.86
+    background_type = transparent
+    cursor_blink = False
+    cursor_fg_color = "#000000"
+    cursor_bg_color = "#c0bebf"
+    cursor_color_default = False
+    font = JetBrainsMono Nerd Font Mono Light 10
+    foreground_color = "#c80003"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_infinite = True
+    exit_action = hold
+    palette = "#000000:#cd0000:#00cd00:#cdcd00:#0000ee:#cd00cd:#00cdcd:#ffffff:#7f7f7f:#ff0000:#00ff00:#ffff00:#5c5cff:#ff00ff:#00ffff:#ffffff"
+    login_shell = True
+    custom_command = neofetch
+    use_system_font = False
+    bold_is_bright = True
+    title_hide_sizetext = True
+    title_transmit_fg_color = "#000000"
+    title_transmit_bg_color = "#9141ac"
+    title_receive_fg_color = "#000000"
+    title_inactive_bg_color = "#9141ac"
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]

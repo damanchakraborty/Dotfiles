@@ -1,0 +1,6 @@
+2025/05/28-18:28:46.250 4035 Creating DB /home/daman/.config/chromium/Default/IndexedDB/https_blog.desdelinux.net_0.indexeddb.leveldb since it was missing.
+2025/05/28-18:28:46.252 4035 Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_blog.desdelinux.net_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/28-18:44:09.629 4036 Level-0 table #5: started
+2025/05/28-18:44:09.631 4036 Level-0 table #5: 5889 bytes OK
+2025/05/28-18:44:09.633 4036 Delete type=0 #3
+2025/05/28-18:44:09.633 4036 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

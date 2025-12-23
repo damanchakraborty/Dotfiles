@@ -1,0 +1,4 @@
+0
+/home/daman/.config/variety/Downloaded/Earth View/Kennedy Range, Australia (ID-14573).jpg
+/home/daman/.config/variety/Downloaded/Bing/OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg
+/usr/share/backgrounds/gnome/adwaita-l.jpg

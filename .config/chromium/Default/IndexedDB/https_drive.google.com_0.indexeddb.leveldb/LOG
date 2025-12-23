@@ -1,0 +1,6 @@
+2025/12/14-20:54:52.319 784 Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/14-20:54:52.319 784 Recovering log #4
+2025/12/14-20:54:52.322 784 Reusing old log /home/daman/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000004.log 
+2025/12/14-21:00:59.638 785 Level-0 table #8: started
+2025/12/14-21:00:59.659 785 Level-0 table #8: 3955822 bytes OK
+2025/12/14-21:00:59.662 785 Delete type=0 #4

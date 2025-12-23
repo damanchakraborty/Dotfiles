@@ -1,0 +1,6 @@
+2025/07/10-13:52:20.458 424 Creating DB /home/daman/.config/chromium/Default/IndexedDB/https_cyberpanel.net_0.indexeddb.leveldb since it was missing.
+2025/07/10-13:52:20.460 424 Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_cyberpanel.net_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/10-14:15:19.525 425 Level-0 table #5: started
+2025/07/10-14:15:19.526 425 Level-0 table #5: 11150 bytes OK
+2025/07/10-14:15:19.528 425 Delete type=0 #3
+2025/07/10-14:15:19.528 425 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

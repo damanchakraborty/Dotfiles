@@ -1,0 +1,27 @@
+2025/12/14-16:23:17.645 785 Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/14-16:23:17.646 785 Recovering log #81
+2025/12/14-16:23:17.653 785 Reusing old log /home/daman/.config/chromium/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/000081.log 
+2025/12/14-16:28:47.456 793 Level-0 table #85: started
+2025/12/14-16:28:47.474 793 Level-0 table #85: 2910959 bytes OK
+2025/12/14-16:28:47.476 793 Delete type=0 #81
+2025/12/14-16:36:25.467 794 Compacting 1@0 + 1@1 files
+2025/12/14-16:36:25.476 794 Generated table #86@0: 714 keys, 52686 bytes
+2025/12/14-16:36:25.476 794 Compacted 1@0 + 1@1 files => 52686 bytes
+2025/12/14-16:36:25.478 794 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/14-16:36:25.478 794 Delete type=2 #82
+2025/12/14-16:36:25.478 794 Delete type=2 #85
+2025/12/14-16:43:18.450 785 Compacting 1@1 + 1@2 files
+2025/12/14-16:43:18.453 785 Generated table #87@1: 73 keys, 97573 bytes
+2025/12/14-16:43:18.453 785 Compacted 1@1 + 1@2 files => 97573 bytes
+2025/12/14-16:43:18.454 785 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/14-16:43:18.454 785 Delete type=2 #80
+2025/12/14-16:43:18.454 785 Delete type=2 #86
+2025/12/14-19:28:11.574 785 Level-0 table #89: started
+2025/12/14-19:28:11.591 785 Level-0 table #89: 2796283 bytes OK
+2025/12/14-19:28:11.592 785 Delete type=0 #84
+2025/12/14-19:52:42.489 785 Compacting 1@1 + 1@2 files
+2025/12/14-19:52:42.499 785 Generated table #90@1: 77 keys, 97846 bytes
+2025/12/14-19:52:42.499 785 Compacted 1@1 + 1@2 files => 97846 bytes
+2025/12/14-19:52:42.502 785 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/14-19:52:42.506 785 Delete type=2 #87
+2025/12/14-19:52:42.509 785 Delete type=2 #89

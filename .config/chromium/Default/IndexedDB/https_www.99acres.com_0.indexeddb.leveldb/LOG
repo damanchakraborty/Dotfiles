@@ -1,0 +1,6 @@
+2025/06/21-17:01:04.224 8b11 Creating DB /home/daman/.config/chromium/Default/IndexedDB/https_www.99acres.com_0.indexeddb.leveldb since it was missing.
+2025/06/21-17:01:04.242 8b11 Reusing MANIFEST /home/daman/.config/chromium/Default/IndexedDB/https_www.99acres.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/21-17:01:18.898 8b12 Level-0 table #5: started
+2025/06/21-17:01:18.905 8b12 Level-0 table #5: 387 bytes OK
+2025/06/21-17:01:18.913 8b12 Delete type=0 #3
+2025/06/21-17:01:18.913 8b12 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
